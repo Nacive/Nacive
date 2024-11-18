@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nacive
+- 👋 Hi, I’m @Jabulani
 - 👀 I’m interested in Web dev
 - 🌱 I’m currently learning JAVA script and Python
 - 💞️ I’m looking to collaborate on ...
